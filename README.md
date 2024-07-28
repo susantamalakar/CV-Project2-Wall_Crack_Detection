@@ -21,3 +21,5 @@ pip install Jinja2 Markdown MarkupSafe PyYAML Pygments Werkzeug absl-py addict a
 Download all the files I provided here and also you need to download a U-Net model. I have already trained it using Keras. go to my Google Drive link provided below and download it. Make sure to put all the files in the current directory.
 
 https://drive.google.com/file/d/1MGIkCqtXrcIGARbt0C3zcOf86q_Q95rq/view?usp=sharing
+
+For any query email me at susanta.malakar98@gmail.com / susanta.mala@kmutt.ac.th
